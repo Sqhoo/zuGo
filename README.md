@@ -1,2 +1,2 @@
 # zuGo
-servlet &amp; jsp project
+my servlet &amp; jsp project
